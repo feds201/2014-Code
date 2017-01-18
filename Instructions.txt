@@ -1,0 +1,1 @@
+Before you launch the code from here, make sure all of your dependencies are in the same places (as indicated by the code) on your HDD.
